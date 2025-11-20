@@ -1,6 +1,4 @@
-Here is a **professional, visually polished, and GitHub-optimized** `README.md` for your **Prices-Predictor-System** repository. It is ready for immediate copy-paste and will render beautifully on GitHub.
 
-```markdown
 # Prices-Predictor-System 📈
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://python.org)
